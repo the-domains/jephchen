@@ -1,7 +1,7 @@
 name: jephchen
 favicon: null
-layout_spectrum: 0.42355333804152906
-typography_spectrum: 0.46816379274241626
+layout_spectrum: 0.0082
+typography_spectrum: 0.00091
 cta:
   domain: null
   bucket: null
