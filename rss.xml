@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jephchen]]></title>
         <description><![CDATA[jephchen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jephchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 22:40:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 11:49:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jephchen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Starting the first post with a new beginning in our lives.</p>]]></description>
-            <link>undefinedstarting-the-first-post-with-a-new-beginning-in-our-lives/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e00ea1-9fdd-47f4-b496-f81d46c06f33.jpg">]]></description>
+            <link>https://thegrid.ai/jephchen/starting-the-first-post-with-a-new-beginning-in-our-lives/index.html</link>
             <guid isPermaLink="false">4db52257-0594-4005-9edf-3e03a0a16685</guid>
-            <pubDate>Tue, 14 Jun 2016 22:40:09 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2016 11:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
